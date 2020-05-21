@@ -10,3 +10,6 @@ score is displayed and added to a highscore list for the current session which u
 * HTML
 * CSS
 
+# Deployment
+
+https://damianisaacalexander.github.io/Javascript_Trivia/start.html
