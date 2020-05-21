@@ -1,7 +1,12 @@
-# Quiz
-Created a Quiz whose timer counts down from 60seconds
-When user chooses the wrong question time is - by 10sec
-When user finishes then they are promt to enter a name
-User can view the scorelist anytime and clear it
- https://damianisaacalexander.github.io/PersonalProjects/Quiz/start.html
- https://github.com/DamianIsaacAlexander/PersonalProjects/tree/master/Quiz
+# Javascript Trivia
+
+A Javascript quiz that allows a user to quiz themselves, after answering all the questions or when the timer hits zero a
+score is displayed and added to a highscore list for the current session which uses local storage.
+
+![Quiz Image](https://i.gyazo.com/6dc45e7966ae46eece022cfef9ac1b11.png)
+
+# Built With
+* Javascript
+* HTML
+* CSS
+
